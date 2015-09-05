@@ -1,0 +1,2 @@
+dumbgl.o: src/dumbgl.cc include/dumbgl.h
+dumbgl-c-bindings.o: src/dumbgl-c-bindings.cc include/dumbgl.h
